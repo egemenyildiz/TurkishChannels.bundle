@@ -19,9 +19,21 @@ DREAMTV_TITLE = "Dream TV"
 RUMELITV_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/1f6733dc05a14e13bc4d6e6a00af634f_live_0_0/index.m3u8"
 RUMELITV_TITLE = "Rumeli TV"
 
+FLASHTV_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8"
+FLASHTV_TITLE = "Flash TV"
+
+CNBCE_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8"
+CNBCE_TITLE = "cnbc-e"
+
+CARTOONNETWORK_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8"
+CARTOONNETWORK_TITLE = "Cartoon Network"
+
 CHANS = {
     ATVHD_TITLE: [ATVHD_STREAM_URL, R('atv-hd.png')],
+    CARTOONNETWORK_TITLE: [CARTOONNETWORK_STREAM_URL, R('cartoonnetwork.png')],
+    CNBCE_TITLE: [CNBCE_STREAM_URL, R('cnbce.png')],
     DREAMTV_TITLE: [DREAMTV_STREAM_URL, R('dreamtv.png')],
+    FLASHTV_TITLE: [FLASHTV_STREAM_URL, R('flashtv.png')],
     KANALD_TITLE: [KANALD_STREAM_URL, R('kanald-hd.png')],
     RUMELITV_TITLE: [RUMELITV_STREAM_URL, R('rumelitv.png')],
     SHOWTV_TITLE: [SHOWTV_STREAM_URL, R('showtv.png')],
