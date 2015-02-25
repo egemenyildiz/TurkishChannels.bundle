@@ -28,10 +28,15 @@ CNBCE_TITLE = "cnbc-e"
 CARTOONNETWORK_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8"
 CARTOONNETWORK_TITLE = "Cartoon Network"
 
+
+CNNTURK_STREAM_URL = "http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
+CNNTURK_TITLE = "CNN Turk"
+
 CHANS = {
     ATVHD_TITLE: [ATVHD_STREAM_URL, R('atv-hd.png')],
     CARTOONNETWORK_TITLE: [CARTOONNETWORK_STREAM_URL, R('cartoonnetwork.png')],
     CNBCE_TITLE: [CNBCE_STREAM_URL, R('cnbce.png')],
+    CNNTURK_TITLE: [CNNTURK_STREAM_URL, R('cnnturk.png')],
     DREAMTV_TITLE: [DREAMTV_STREAM_URL, R('dreamtv.png')],
     FLASHTV_TITLE: [FLASHTV_STREAM_URL, R('flashtv.png')],
     KANALD_TITLE: [KANALD_STREAM_URL, R('kanald-hd.png')],
