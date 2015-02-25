@@ -9,6 +9,7 @@ Plex channel/plug-in to stream popular Turkish TV channels
 * ATV
 * Cartoon Network
 * Cnbc-e
+* CNN Türk
 * dream
 * Kanal D
 * Rumeli TV

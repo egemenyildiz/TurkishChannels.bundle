@@ -23,7 +23,7 @@ FLASHTV_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e576f
 FLASHTV_TITLE = "Flash TV"
 
 CNBCE_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8"
-CNBCE_TITLE = "cnbc-e"
+CNBCE_TITLE = "Cnbc-e"
 
 CARTOONNETWORK_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8"
 CARTOONNETWORK_TITLE = "Cartoon Network"
