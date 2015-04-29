@@ -1,7 +1,8 @@
 SHOWTV_STREAM_URL = "http://live-ciner.mncdn.net/showtv/showtv2/radyodelisi.m3u8"
 SHOWTV_TITLE = "Show TV"
 
-TV8_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/7ea4b11a8660697ab54a3e7d03bdfef7_live_0_0/index.m3u8"
+# TV8_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/7ea4b11a8660697ab54a3e7d03bdfef7_live_0_0/index.m3u8"
+TV8_STREAM_URL = "rtmp://yayin1.canlitv.com/live/tv8"
 TV8_TITLE = "Tv 8"
 
 KANALD_STREAM_URL = "http://media.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8"
@@ -29,7 +30,8 @@ CARTOONNETWORK_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/stream
 CARTOONNETWORK_TITLE = "Cartoon Network"
 
 
-CNNTURK_STREAM_URL = "http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
+# CNNTURK_STREAM_URL = "http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
+CNNTURK_STREAM_URL = "http://212.224.80.87/S2/HLS_LIVE/cnn_turk/index.m3u8"
 CNNTURK_TITLE = "CNN Turk"
 
 CHANS = {
