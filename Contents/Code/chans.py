@@ -20,7 +20,8 @@ DREAMTV_TITLE = "Dream TV"
 RUMELITV_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/1f6733dc05a14e13bc4d6e6a00af634f_live_0_0/index.m3u8"
 RUMELITV_TITLE = "Rumeli TV"
 
-FLASHTV_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8"
+# FLASHTV_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e576f7fb1645893450446d3722613c5d_live_0_0/index.m3u8"
+FLASHTV_STREAM_URL = "http://184.173.181.2:1935/8158/8158/playlist.m3u8"
 FLASHTV_TITLE = "Flash TV"
 
 CNBCE_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/9044496707bcc259f6cdf58eb93cbfe9_live_0_0/index.m3u8"
