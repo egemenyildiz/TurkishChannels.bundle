@@ -1,8 +1,7 @@
 SHOWTV_STREAM_URL = "http://live-ciner.mncdn.net/showtv/showtv2/radyodelisi.m3u8"
 SHOWTV_TITLE = "Show TV"
 
-# TV8_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/7ea4b11a8660697ab54a3e7d03bdfef7_live_0_0/index.m3u8"
-TV8_STREAM_URL = "rtmp://yayin1.canlitv.com/live/tv8"
+TV8_STREAM_URL = "http://yayin1.canlitv.com:1935/live/tvsekiz/chunklist_w920877893.m3u8"
 TV8_TITLE = "Tv 8"
 
 KANALD_STREAM_URL = "http://media.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8"
@@ -30,6 +29,8 @@ CNBCE_TITLE = "Cnbc-e"
 CARTOONNETWORK_STREAM_URL = "http://origin.live.web.tv.streamprovider.net/streams/e0abd0b3943ae7bbcff8e3b570ef4612_live_0_0/index.m3u8"
 CARTOONNETWORK_TITLE = "Cartoon Network"
 
+EUROSPORT_STREAM_URL = "http://46.61.226.20/hls/CH_EUROSPORT/bw900000/playlist.m3u8"
+EUROSPORT_TITLE = "Eurosport"
 
 # CNNTURK_STREAM_URL = "http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
 CNNTURK_STREAM_URL = "http://212.224.80.87/S2/HLS_LIVE/cnn_turk/index.m3u8"
@@ -41,7 +42,8 @@ CHANS = {
     CNBCE_TITLE: [CNBCE_STREAM_URL, R('cnbce.png')],
     CNNTURK_TITLE: [CNNTURK_STREAM_URL, R('cnnturk.png')],
     DREAMTV_TITLE: [DREAMTV_STREAM_URL, R('dreamtv.png')],
-    FLASHTV_TITLE: [FLASHTV_STREAM_URL, R('flashtv.png')],
+    EUROSPORT_TITLE: [EUROSPORT_STREAM_URL, R('dreamtv.png')],
+    FLASHTV_TITLE: s[FLASHTV_STREAM_URL, R('flashtv.png')],
     KANALD_TITLE: [KANALD_STREAM_URL, R('kanald-hd.png')],
     RUMELITV_TITLE: [RUMELITV_STREAM_URL, R('rumelitv.png')],
     SHOWTV_TITLE: [SHOWTV_STREAM_URL, R('showtv.png')],
