@@ -43,7 +43,7 @@ CHANS = {
     CNNTURK_TITLE: [CNNTURK_STREAM_URL, R('cnnturk.png')],
     DREAMTV_TITLE: [DREAMTV_STREAM_URL, R('dreamtv.png')],
     EUROSPORT_TITLE: [EUROSPORT_STREAM_URL, R('dreamtv.png')],
-    FLASHTV_TITLE: s[FLASHTV_STREAM_URL, R('flashtv.png')],
+    FLASHTV_TITLE: [FLASHTV_STREAM_URL, R('flashtv.png')],
     KANALD_TITLE: [KANALD_STREAM_URL, R('kanald-hd.png')],
     RUMELITV_TITLE: [RUMELITV_STREAM_URL, R('rumelitv.png')],
     SHOWTV_TITLE: [SHOWTV_STREAM_URL, R('showtv.png')],
