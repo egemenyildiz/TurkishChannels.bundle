@@ -1,7 +1,7 @@
 SHOWTV_STREAM_URL = "http://live-ciner.mncdn.net/showtv/showtv2/radyodelisi.m3u8"
 SHOWTV_TITLE = "Show TV"
 
-TV8_STREAM_URL = "http://tv8.viviso.tv/live.m3u8"
+TV8_STREAM_URL = "http://yayin6.canlitv.com:1935/live/tv8/playlist.m3u8"
 TV8_TITLE = "Tv 8"
 
 KANALD_STREAM_URL = "http://media.netd.com.tr/S1/HLS_LIVE/kanald/1500/prog_index.m3u8"
