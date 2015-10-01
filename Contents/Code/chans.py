@@ -36,6 +36,9 @@ EUROSPORT_TITLE = "Eurosport"
 CNNTURK_STREAM_URL = "http://212.224.80.87/S2/HLS_LIVE/cnn_turk/index.m3u8"
 CNNTURK_TITLE = "CNN Turk"
 
+TRT1HD_STREAM_URL = "http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8"
+TRT1HD_TITLE = "TRT 1 (HD)"
+
 CHANS = {
     ATVHD_TITLE: [ATVHD_STREAM_URL, R('atv-hd.png')],
     CARTOONNETWORK_TITLE: [CARTOONNETWORK_STREAM_URL, R('cartoonnetwork.png')],
@@ -48,5 +51,6 @@ CHANS = {
     RUMELITV_TITLE: [RUMELITV_STREAM_URL, R('rumelitv.png')],
     SHOWTV_TITLE: [SHOWTV_STREAM_URL, R('showtv.png')],
     STARTV_TITLE: [STARTV_STREAM_URL, R('star.png')],
+    TRT1HD_TITLE: [TRT1HD_STREAM_URL, R('star.png')],
     TV8_TITLE: [TV8_STREAM_URL, R('tv8.png')]
     }
